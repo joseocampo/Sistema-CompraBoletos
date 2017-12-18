@@ -195,6 +195,10 @@ public class Modelo extends Observable {
 //        this.add(BorderLayout.CENTER, panelBase);
         agregarEventos();
 
+        
+        
+        
+        
     }
 
     private void agregarEventosButacas(int i, int j) {
